@@ -1,6 +1,6 @@
 pipeline{
 
-agent { node { label 'workstation' }
+agent { node { label 'workstation' }}
 
 
 stages{
